@@ -4,7 +4,7 @@ Este é um app que calcula a propbalilidade de uma moeda tirar cara ou coroa, ba
 
 ## Estado Atual do Projeto
 
-O projeto está em produção. Publicado no endereço: https://victoria-lecture8-ocwu.onrender.com
+O projeto está em produção. Publicado no endereço: https://new-app-ocwu.onrender.com
 
 ## Tecnologias Utilizadas
 
